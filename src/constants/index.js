@@ -1,12 +1,12 @@
-export const HERO_CONTENT = `I am a 4th-year B.Tech CSE student, a passionate Full Stack Web Developer and AI enthusiast, currently pursuing a B.Tech in Computer Science at JK Lakshmipat University. I enjoy building user-focused, scalable web applications using the MERN stack, JavaScript, and PostgreSQL, and have hands-on experience with cloud storage (Amazon S3, Filebase) and authentication (JWT, Firebase). I use tools like GitHub Copilot and ChatGPT to boost efficiency and support development. I’ve also explored deep learning and computer vision by building image segmentation projects using U-Net and PyTorch.
+export const HERO_CONTENT = `I am a 4th-year B.Tech Computer Science student at JK Lakshmipat University, specializing in Full Stack Web Development and Artificial Intelligence. I build scalable and user-focused web applications using MERN stack. I enjoy working in collaborative environments and constantly learning and innovating through real-world projects and hackathons.
 
-Other than this I am passionate about dance, travel, journaling, swimming and reading as my hobbies. Let's connect to get to know more about one another..`;
+Other than this I am passionate about dance, travel, journaling, swimming and reading as my hobbies.`;
 
-export const ABOUT_TEXT = `I am Niharika Sharma, a 3rd-year B.Tech Computer Science student at JK Lakshmipat University, where I’m shaping my skills in research, machine learning, and data analytics. My academic journey has been a blend of hands-on projects and a strong drive to learn. I’ve worked on diverse projects like predicting SDG goals and analyzing air quality, each expanding my understanding of data’s impact on real-world problems.
+export const ABOUT_TEXT = `I am passionate about building modern and scalable full-stack applications using React, Node.js, Express, MongoDB, and PostgreSQL, with hands-on experience in cloud storage (Amazon S3, Cloudinary, Filebase) and secure authentication (JWT, Firebase). I also work with Gen-AI tools like GitHub Copilot and ChatGPT to boost productivity and accelerate development.
 
-I also have a keen interest in web development, with HTML, CSS, JavaScript, and React, and have developed a music development GUI that merges my technical and creative sides. I am always open to new opportunities that will help me grow further in computer science.
+I have worked on real-world projects including Kalakendra, a workshop booking platform with Razorpay payments, role-based dashboards, and media management, and Journey Craft, a travel planning web app with dual user roles, booking flows, and itinerary customization. These projects strengthened my expertise in the MERN stack, API development, authentication, and scalable UI/UX design.
 
-Beyond academics, I am passionate about dance, travel, journaling, and swimming. I love connecting with others who share a curiosity for tech and innovation, let’s connect and learn from one another!`;
+Beyond development, I actively participate in innovation and leadership activities, including the Smart India Hackathon 2023 & 2024 and presenting Journey Craft at Aarohan’25. I am also involved in cultural events like dance and ramp walk, and have served as Organizing Head & Coordinator for major university fests such as Sabrang and HackJKLU.`;
 
 
 export const CONTACT = {
